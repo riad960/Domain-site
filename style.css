@@ -1,0 +1,10 @@
+:root {
+  --color-primary: #004d40;
+  --color-secondary: #1de9b6;
+  --color-accent:
+  --text-heading: #090e34;
+  --text-color: #959cb1;
+}
+body {
+  background-color: #f50057;
+}
